@@ -1,0 +1,14 @@
+.env
+env/.env
+*.tmp~.xlsx
+.manual_gap_coder_state.json
+.manual_gap_coder_state_reviewer2.json
+__pycache__/
+*.pyc
+.Python
+venv/
+.venv/
+.DS_Store
+~$*
+*.lock
+

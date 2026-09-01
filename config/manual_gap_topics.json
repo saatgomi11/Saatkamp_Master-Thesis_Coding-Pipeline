@@ -1,0 +1,45 @@
+{
+  "_comment": "Exact Excel header names from Master-Supabase Transcripts.xlsx",
+  "topics": [
+    {
+      "key": "overall_experience",
+      "label": "Overall experience",
+      "text_column": "text_overall_experience",
+      "pre_survey_question_id": "8ee38d7a-4e37-4fee-83f4-7e3efa73e06c",
+      "manual_gap": "manual_gap_overall_experience",
+      "manual_likert": "manual_likert_overall_experience",
+      "gap_segmentation": "gap_segmentation_overall experience",
+      "negative_issue": "negative_issue_overall_experience"
+    },
+    {
+      "key": "workload_sust",
+      "label": "Workload sustainability",
+      "text_column": "text_workload_sustainability",
+      "pre_survey_question_id": "51d57499-c0cc-4043-8ed7-cbc52eadaa56",
+      "manual_gap": "manual_gap_workload_sust",
+      "manual_likert": "manual_likert_workload_sust",
+      "gap_segmentation": "gap_segmentation_workload_sust",
+      "negative_issue": "negative_issue_workload_sust"
+    },
+    {
+      "key": "client_value",
+      "label": "Client value",
+      "text_column": "text_client_value",
+      "pre_survey_question_id": "0cffec6e-3387-4e11-ab7e-70b4a99cdbc3",
+      "manual_gap": "manual_gap_client_value",
+      "manual_likert": "manual_likert_client_value",
+      "gap_segmentation": "gap_segmentation_client_value",
+      "negative_issue": "negative_issue_client_value"
+    },
+    {
+      "key": "leadership",
+      "label": "Leadership engagement",
+      "text_column": "text_leadership_engagement",
+      "pre_survey_question_id": "01f1bb11-458c-4d4f-a277-e6888f1945c0",
+      "manual_gap": "manual_gap_leadership",
+      "manual_likert": "manual_likert_leadership",
+      "gap_segmentation": "gap_segmentation_leadership",
+      "negative_issue": "negative_issue_leadership"
+    }
+  ]
+}

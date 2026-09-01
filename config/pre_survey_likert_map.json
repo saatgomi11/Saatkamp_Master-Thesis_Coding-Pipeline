@@ -1,0 +1,29 @@
+{
+  "_comment": "Pre-survey v1 UUID → interview topic for disclosure-gap coding. See config/pre_survey_schema_v1.json for full question titles.",
+  "likert_positive_values": ["agree", "tend_to_agree"],
+  "likert_negative_values": ["disagree", "tend_to_disagree"],
+  "questions": {
+    "0cffec6e-3387-4e11-ab7e-70b4a99cdbc3": {
+      "topic_key": "client_value",
+      "question_text": "My team focuses on delivering client value by prioritizing work effectively together"
+    },
+    "51d57499-c0cc-4043-8ed7-cbc52eadaa56": {
+      "topic_key": "workload_sustainability",
+      "question_text": "The workload was sustainable and predictable for me this past week(s)."
+    },
+    "01f1bb11-458c-4d4f-a277-e6888f1945c0": {
+      "topic_key": "leadership_engagement",
+      "question_text": "The XO (Executing Officer) and the full MDP/MD team are engaged in effective teaming, based on clear swimlanes."
+    },
+    "8ee38d7a-4e37-4fee-83f4-7e3efa73e06c": {
+      "topic_key": "overall_experience",
+      "question_text": "My team provides a supportive and inclusive environment, where I feel comfortable speaking up.",
+      "excel_gap_columns": "gap_overall_expierience / reason_o_e"
+    },
+    "7e5db034-a4b4-4b22-8107-c2232fcda580": {
+      "topic_key": null,
+      "question_text": "I am satisfied with my personal growth and learning.",
+      "_note": "No matching interview probe (opening is case-team what worked/improved; this is personal growth). Excluded from per-topic disclosure gap columns."
+    }
+  }
+}

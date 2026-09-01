@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "questions": [
+    {
+      "id": "0cffec6e-3387-4e11-ab7e-70b4a99cdbc3",
+      "title": "My team focuses on delivering client value by prioritizing work effectively together"
+    },
+    {
+      "id": "51d57499-c0cc-4043-8ed7-cbc52eadaa56",
+      "title": "The workload was sustainable and predictable for me this past week(s)."
+    },
+    {
+      "id": "01f1bb11-458c-4d4f-a277-e6888f1945c0",
+      "title": "The XO (Executing Officer) and the full MDP/MD team are engaged in effective teaming, based on clear swimlanes."
+    },
+    {
+      "id": "7e5db034-a4b4-4b22-8107-c2232fcda580",
+      "title": "I am satisfied with my personal growth and learning."
+    },
+    {
+      "id": "8ee38d7a-4e37-4fee-83f4-7e3efa73e06c",
+      "title": "My team provides a supportive and inclusive environment, where I feel comfortable speaking up."
+    }
+  ]
+}
