@@ -1,4 +1,4 @@
-# Saatkamp Thesis — Transcript Analysis Code
+# Saatkamp Thesis - Transcript Analysis Code
 
 Python tooling for enriching AI check-in transcripts (segmentation, disclosure gap,
 manual coding, Gioia Stage 1).
@@ -173,7 +173,7 @@ By default, sessions already present in `Qualitative Analysis` are skipped. See 
 
 ## Further reading
 
-- `docs/README_MANUAL_GAP_CODER.md` — manual severity / negative-issue coding UI
-- `docs/README_QUALITATIVE_GIOIA.md` — Gioia Stage 1 output columns and re-run behaviour
-- `env/README.txt` — API key file locations
+- `docs/README_MANUAL_GAP_CODER.md` - manual severity / negative-issue coding UI
+- `docs/README_QUALITATIVE_GIOIA.md` - Gioia Stage 1 output columns and re-run behaviour
+- `env/README.txt` - API key file locations
 
